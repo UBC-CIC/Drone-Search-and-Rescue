@@ -24,5 +24,5 @@ To see how to use our web app, see the UserGuide.md
 The project members are Ryan Clayton, Kaiwen Deng, James Jiang, Ruiqi Tian, Ying Qi Wen. Thanks to the advisors Panos Nasiopoulos and Junbin Zhang (Thomas) for technical supports. Special thanks to the UBC Cloud Innovation Center for AWS technical supports and this precious project idea.
 
 # License
-This project is distributed under the MIT License.
+This project is distributed under the [MIT License](https://github.com/UBC-CIC/Drone-Search-and-Rescue/blob/main/LICENSE).
 
