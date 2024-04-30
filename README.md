@@ -1,6 +1,6 @@
 # Open Data: Aerial Drone Footage - Lost Hiker Challenge
 
-The Lost Hiker Challenge is a project collarobrated with UBC Cloud Innovation Center to help Search and Resuce task easier. To save time for SAR teams to review drone footage manually or eye spot lost peron in the wild area, we created a dataset for machine learning model training, and also provides a trained model deployed on AWS, along with a web application.
+The Lost Hiker Challenge is an UBC ECE capstone project collarobrated with UBC Cloud Innovation Center to help Search and Resuce task easier. To save time for SAR teams to review drone footage manually or eye spot lost peron in the wild area, we created a dataset for machine learning model training, and also provides a trained model deployed on AWS, along with a web application.
 
 # Deployment Guide
 To deploy the service, see the [DeploymentGuide](https://github.com/UBC-CIC/Drone-Search-and-Rescue/blob/main/BackEnd/DeploymentGuide.md)
